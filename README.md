@@ -3,7 +3,7 @@
 
 <br/>
 
-- ❤️ &nbsp; Working on making textual content **accessible to everyone** with [u31.io](https://u31.io)
+- ❤️ &nbsp; Working on making textual content **accessible to everyone** with [u31.io](https://u31.io) [French]
 - ⚒️ &nbsp; Using [spaCy](https://github.com/explosion/spaCy),&nbsp; [FastAPI](https://github.com/tiangolo/fastapi),&nbsp; [TipTap](https://github.com/ueberdosis/tiptap/)...
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/boehm-e?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
