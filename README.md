@@ -1,2 +1,32 @@
+## Hey 👋, I'm Erwan!
+
+
+<br/>
+<br/>
+<br/>
+
+- ❤️ &nbsp; Working on making textual content **accessible to everyone** with [u31.io](https://u31.io)
+- ⚒️ &nbsp; Using [spaCy](https://github.com/explosion/spaCy),&nbsp; [FastAPI](https://github.com/tiangolo/fastapi),&nbsp; [TipTap](https://github.com/ueberdosis/tiptap/)...
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/boehm-e?tab=repositories)
+- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/boehmerwan/)
+<br/>
+<br/>
+<br/>
+
+## When I don't work:
+
+- 🔧 I create all kind of stuff with my 3D printers, lasers, saws, drills, some other things and fusion360. Some of this stuff might be usefull, one day...
+- 🎹 I look at the musical instruments I bought, and wonder why...
+- 👨‍🍳 I cook
+- 🐈🐈‍⬛ I take very good care of my two cats
+- 🙀 I'm going for a walk with my cats
+- 😻 I love cats
+- 👨 Cats love me (at least, when I feed them)
+
+
+<br/>
+<br/>
+<br/>
+
 [![boehm-e GitHub stats](https://github-readme-stats.vercel.app/api?username=boehm-e)](https://github.com/anuraghazra/github-readme-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boehm-e&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
