@@ -3,8 +3,8 @@
 
 <br/>
 
-- ❤️ &nbsp; Making textual content **accessible to everyone** with [u31.io](https://u31.io) [French]
-- ⚒️ &nbsp; Using [spaCy](https://github.com/explosion/spaCy),&nbsp; [FastAPI](https://github.com/tiangolo/fastapi),&nbsp; [TipTap](https://github.com/ueberdosis/tiptap/)...
+- ❤️ &nbsp; Making textual content **accessible to everyone** with [u31.io](https://u31.io) by fine-tuning open-source LLMs to achieve state-of-the-art text simplification [French]
+- ⚒️ &nbsp; Using open source LLMs (LLama, Mistral, Vigogne, Phi,...) [spaCy](https://github.com/explosion/spaCy),&nbsp; [FastAPI](https://github.com/tiangolo/fastapi),&nbsp; [TipTap](https://github.com/ueberdosis/tiptap/)...
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/boehm-e?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/boehmerwan/)
