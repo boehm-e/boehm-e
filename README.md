@@ -14,12 +14,8 @@
 ## When I don't work:
 
 - 🔧 I create all kind of stuff with my 3D printers, lasers, cnc, saws, drills, some other things and fusion360. Some of this stuff might be usefull, one day...
-- 🎹 I look at the musical instruments I bought, and wonder why...
 - 👨‍🍳 I cook
-- 🐈🐈‍⬛ I take very good care of my two cats
-- 🙀 I'm going for a walk with my cats
 - 😻 I love cats
-- 👨 Cats love me (at least, when I feed them)
 
 
 <br/>
